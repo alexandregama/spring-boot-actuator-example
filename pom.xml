@@ -4,7 +4,7 @@
 
 	<groupId>br.com.jorgeacetozi.actuator</groupId>
 	<artifactId>spring-boot-actuator-example</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>actuator-example</name>
@@ -27,7 +27,7 @@
 		<connection>scm:git:git@github.com:jorgeacetozi/spring-boot-actuator-example.git</connection>
 		<developerConnection>scm:git:git@github.com:jorgeacetozi/spring-boot-actuator-example.git</developerConnection>
 		<url>scm:git:git@github.com:jorgeacetozi/spring-boot-actuator-example.git</url>
-		<tag>spring-boot-actuator-example-1.0.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<distributionManagement>
